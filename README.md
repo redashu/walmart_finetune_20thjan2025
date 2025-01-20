@@ -1,1 +1,3 @@
-# walmart_finetune_20thjan2025
+## Timings 
+
+<img src="time.png">
