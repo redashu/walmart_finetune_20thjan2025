@@ -18,4 +18,28 @@
 
 <img src="ml5.png">
 
+### for Fine tuning the steps involed 
+
+<img src="m.png">
+
+### GPT fine tuning 
+
+<img src="gpt1.png">
+
+### Not all GPT models are available for fine tuning 
+
+<img src="gpt2.png">
+
+### GPT overall 
+
+<img src="gpt3.png">
+
+
+### GPT fine tuning data format 
+
+<img src="format1.png">
+
+### GPT data format 
+
+<img src="format2.png">
 
