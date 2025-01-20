@@ -43,3 +43,10 @@
 
 <img src="format2.png">
 
+### to use openai API python lib 
+### in Ubuntu 20.04 LTS or later / kernel version 4.10 or later is recommended 
+
+<img src="check.png">
+
+## install openai latest version by checking from pypi 
+
