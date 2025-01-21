@@ -21,5 +21,6 @@ ashu-env  query.py
 ashu@ip-172-31-79-44:~/mycodes$ source  ashu-env/bin/activate
 (ashu-env) ashu@ip-172-31-79-44:~/mycodes$ 
 
-
+### installing openai 
+pip install openai 
 ```
