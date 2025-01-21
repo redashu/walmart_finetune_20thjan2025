@@ -24,3 +24,15 @@ ashu@ip-172-31-79-44:~/mycodes$ source  ashu-env/bin/activate
 ### installing openai 
 pip install openai 
 ```
+
+### Get some sample codes about GPT fine tuning and other purpose 
+#### browse cookbook of openai store
+
+[click_here](https://cookbook.openai.com/)
+
+### training data format validataion things 
+
+<img src="validate1.png">
+
+
+
