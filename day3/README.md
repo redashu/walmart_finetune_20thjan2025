@@ -17,6 +17,14 @@
 
 [click](https://docs.unsloth.ai/)
 
+## Importantces of pipeline of hugging face transformers 
+
+<img src="pipe.png">
+
+## access link to HG pipelines 
+
+[click_here](https://huggingface.co/docs/transformers/en/main_classes/pipelines)
+
 ## More info about Parameter in fine tuning of LLM
 
 # Types of Parameters in Fine-Tuning
