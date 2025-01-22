@@ -4,6 +4,11 @@
 
 [click_to_go](https://cookbook.openai.com/)
 
-## Timings 
+### Deepspeed 
 
-<img src="time.png">
+[click_to_go](https://github.com/microsoft/DeepSpeed)
+
+## process of fine tuning a model 
+
+<img src="p1.png">
+
