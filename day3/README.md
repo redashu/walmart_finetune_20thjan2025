@@ -25,6 +25,12 @@
 
 [click_here](https://huggingface.co/docs/transformers/en/main_classes/pipelines)
 
+### Process to interact with LLama model using HG transformer
+
+<img src="p22.png">
+
+
+
 ## More info about Parameter in fine tuning of LLM
 
 # Types of Parameters in Fine-Tuning
