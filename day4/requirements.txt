@@ -1,0 +1,6 @@
+transformers
+bitsandbytes
+trl
+peft
+pandas
+datasets
