@@ -29,6 +29,10 @@
 
 <img src="p22.png">
 
+## Mode of Foundation Models 
+
+<img src="modes.png">
+
 
 
 ## More info about Parameter in fine tuning of LLM
