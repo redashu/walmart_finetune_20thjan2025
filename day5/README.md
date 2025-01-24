@@ -27,3 +27,8 @@ Type "help", "copyright", "credits" or "license" for more information.
 (stat-env) stat@ip-172-31-79-44:~/mycodes$ 
 
 ```
+
+### Intro to RAG 
+
+<img src="rag.png">
+
